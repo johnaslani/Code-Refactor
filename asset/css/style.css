@@ -95,6 +95,10 @@ p {
     text-align: center;
 }
 
+.benefit p {
+    margin-bottom: 30px;
+}
+
 /* Consolidate classes for img */
 
 .benefit img {
